@@ -1,0 +1,2 @@
+# phpqrcode-addlogo
+在phpqrcode基础上增加了在可以在二维中间添加logo图标及二维码颜色、背景色设置的功能
